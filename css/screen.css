@@ -278,13 +278,13 @@ body {
 }
 
 input[type=submit]:hover {
-	background-color: #B2BEB5;
+  background-color: #B2BEB5;
 }
 
 #content {
-	border-radius: 20px;
-	background-color: #7393B3;
-	padding: 0.85em;
+  border-radius: 20px;
+  background-color: #7393B3;
+  padding: 0.85em;
 }
 
 @media screen and (max-width: 650px) {
